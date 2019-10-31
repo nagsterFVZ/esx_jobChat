@@ -8,7 +8,8 @@ Job/Emergency chat for fivem using ESX
 
 **Important**  
 Messages to 311 and 911 will not show for the sender unless their job is police or ambulance.  
-311 and 911 will also generate markers on the map for the ease of finding where the call came from.
+311 and 911 will also generate markers on the map for the ease of finding where the call came from.  
+The script checks your job once per minute, so if yyou change jobs just wait a bit for it too check what your job is.
 
 # Setup
 Just add the mod to your mods.cfg or server.cfg  
